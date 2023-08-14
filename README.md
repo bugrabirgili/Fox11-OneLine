@@ -1,0 +1,31 @@
+/*==============================================================================================*
+
+8888888888                    d888    d888           .d88888b.                    888      d8b                   
+888                          d8888   d8888          d88P" "Y88b                   888      Y8P                   
+888                            888     888          888     888                   888                            
+8888888     .d88b.  888  888   888     888          888     888 88888b.   .d88b.  888      888 88888b.   .d88b.  
+888        d88""88b `Y8bd8P'   888     888          888     888 888 "88b d8P  Y8b 888      888 888 "88b d8P  Y8b 
+888        888  888   X88K     888     888   888888 888     888 888  888 88888888 888      888 888  888 88888888 
+888        Y88..88P .d8""8b.   888     888          Y88b. .d88P 888  888 Y8b.     888      888 888  888 Y8b.     
+888         "Y88P"  888  888 8888888 8888888         "Y88888P"  888  888  "Y8888  88888888 888 888  888  "Y8888  
+
+  Description:    Fox11-OneLine is a Firefox CSS theme. I wanted to implement various aspects of other CSS themes available on the GitHub. 
+                  Mainly, my theme is based on jtlw99's vicefox theme in combination with Neikon's Fox11 theme, denizjcan's 
+                  Firefox-Safari-15-Theme, andreasgrafen's cascade theme and datguypiko's Firefox-Mod-Blur themes.
+  Author:         Bugra Birgili
+  Latest Update: Aug. 14, 2023
+  Repository URL: https://github.com/bugrabirgili/Fox11-OneLine
+  Credit of the CSS codes I have used in my work: 
+                  jtlw99: https://github.com/jtlw99/vicefox
+                  andreasgrafen: https://github.com/andreasgrafen/cascade
+                  Neikon: https://github.com/Neikon/Fox11
+                  denizjcan: https://github.com/denizjcan/Firefox-Safari-15-Theme
+                  datguypiko: https://github.com/datguypiko/Firefox-Mod-Blur/tree/master
+
+                  I sincerely thank you all the creators above for their CSS codes that inspired me.
+
+  Credit of the ASCII-based logo above: The chrome.css file of andreasgrafen has a fancy ascii-based logo. So, I also wanted to use a logo in my code.
+                                        I used the following website to convert my theme name into a logo: 
+                                        http://www.patorjk.com/software/taag/#p=display&h=0&v=0&f=Colossal&t=Fox11-OneLine
+
+*==============================================================================================*/
